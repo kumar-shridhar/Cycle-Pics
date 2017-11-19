@@ -1,2 +1,2 @@
 # Cycle-Pics
-Cropped pictures of cycle riders to be used as open source 
+Open source cropped pictures of bicycles riders.  
